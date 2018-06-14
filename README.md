@@ -4,6 +4,14 @@
 
 #### By **Brea Clark**
 
+## Setup/Installation Requirements
+
+* Clone Repository
+* Navigate into repository
+* Run npm install
+* Run npm start
+* Open in Browser
+
 ## Known Bugs
 * No known bugs.
 
